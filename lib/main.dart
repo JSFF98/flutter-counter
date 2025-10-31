@@ -119,7 +119,9 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                     ),
                 ]
-              )
+              ),
+              SizedBox(height: 20,),
+              Text("Made by Jeffrey F H - 2702221936")
             ],
           ),
         )
